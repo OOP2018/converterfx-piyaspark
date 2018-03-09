@@ -1,6 +1,8 @@
 package converter;
 
-/**the enum class of Length.*/
+/**the enum class of Length.
+ * @author Piyaphol Wiengperm.
+ */
 public enum Length {
     Meter(1.0),
     Kilometer(1000.0),
